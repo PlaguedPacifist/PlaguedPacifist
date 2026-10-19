@@ -1,15 +1,15 @@
+Hi! My name is Richard Nick S. Del Rosario.
+I am an aspiring Full Stack Developer and Software Developer currently learning new skills through experience!
 
-<!--
-**PlaguedPacifist/PlaguedPacifist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I’m currently working on a new personal portfolio!
+- I’m currently learning C and C++!
+- Frontend: React, Next.js, TypeScript
+- Backend: Node.js
+- Tools: GitHub Actions
 
-Here are some ideas to get you started:
+My current projects include:
+- An informal personal blog site.
+- C Scripts.
+- And other projects kept private.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--    -->
